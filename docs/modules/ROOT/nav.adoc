@@ -1,0 +1,3 @@
+asciidoc
+
+* xref:index.adoc[Home]

@@ -1,0 +1,5 @@
+name: pradesh
+title: प्रदेश
+version: '1.0'
+nav:
+  - modules/ROOT/nav.adoc

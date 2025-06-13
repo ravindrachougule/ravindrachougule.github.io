@@ -1,5 +1,5 @@
-name: pradesh
-title: प्रदेश
-version: '1.0'
+name: docs
+title: Resume
+version: master
 nav:
   - modules/ROOT/nav.adoc
